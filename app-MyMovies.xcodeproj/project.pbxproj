@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		8F8BBAF52006683800CD5A62 /* DetalhesFilmeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F8BBAF42006683800CD5A62 /* DetalhesFilmeViewController.swift */; };
 		8FFFDB012005544D0046F051 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FFFDB002005544D0046F051 /* AppDelegate.swift */; };
 		8FFFDB032005544D0046F051 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FFFDB022005544D0046F051 /* ViewController.swift */; };
 		8FFFDB062005544D0046F051 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8FFFDB042005544D0046F051 /* Main.storyboard */; };
@@ -18,6 +19,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		8F8BBAF42006683800CD5A62 /* DetalhesFilmeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetalhesFilmeViewController.swift; sourceTree = "<group>"; };
 		8FFFDAFD2005544D0046F051 /* app-MyMovies.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "app-MyMovies.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		8FFFDB002005544D0046F051 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		8FFFDB022005544D0046F051 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -61,9 +63,10 @@
 			isa = PBXGroup;
 			children = (
 				8FFFDB002005544D0046F051 /* AppDelegate.swift */,
-				8FFFDB022005544D0046F051 /* ViewController.swift */,
 				8FFFDB1520062C470046F051 /* Filme.swift */,
 				8FFFDB172006405B0046F051 /* FilmeCelula.swift */,
+				8FFFDB022005544D0046F051 /* ViewController.swift */,
+				8F8BBAF42006683800CD5A62 /* DetalhesFilmeViewController.swift */,
 				8FFFDB042005544D0046F051 /* Main.storyboard */,
 				8FFFDB0A2005544D0046F051 /* Assets.xcassets */,
 				8FFFDB0C2005544D0046F051 /* LaunchScreen.storyboard */,
@@ -149,6 +152,7 @@
 				8FFFDB182006405B0046F051 /* FilmeCelula.swift in Sources */,
 				8FFFDB092005544D0046F051 /* app_MyMovies.xcdatamodeld in Sources */,
 				8FFFDB012005544D0046F051 /* AppDelegate.swift in Sources */,
+				8F8BBAF52006683800CD5A62 /* DetalhesFilmeViewController.swift in Sources */,
 				8FFFDB1620062C470046F051 /* Filme.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
