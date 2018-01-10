@@ -14,6 +14,7 @@
 		8FFFDB0B2005544D0046F051 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8FFFDB0A2005544D0046F051 /* Assets.xcassets */; };
 		8FFFDB0E2005544D0046F051 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8FFFDB0C2005544D0046F051 /* LaunchScreen.storyboard */; };
 		8FFFDB1620062C470046F051 /* Filme.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FFFDB1520062C470046F051 /* Filme.swift */; };
+		8FFFDB182006405B0046F051 /* FilmeCelula.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FFFDB172006405B0046F051 /* FilmeCelula.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		8FFFDB0D2005544D0046F051 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		8FFFDB0F2005544D0046F051 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		8FFFDB1520062C470046F051 /* Filme.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Filme.swift; sourceTree = "<group>"; };
+		8FFFDB172006405B0046F051 /* FilmeCelula.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FilmeCelula.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 				8FFFDB002005544D0046F051 /* AppDelegate.swift */,
 				8FFFDB022005544D0046F051 /* ViewController.swift */,
 				8FFFDB1520062C470046F051 /* Filme.swift */,
+				8FFFDB172006405B0046F051 /* FilmeCelula.swift */,
 				8FFFDB042005544D0046F051 /* Main.storyboard */,
 				8FFFDB0A2005544D0046F051 /* Assets.xcassets */,
 				8FFFDB0C2005544D0046F051 /* LaunchScreen.storyboard */,
@@ -143,6 +146,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				8FFFDB032005544D0046F051 /* ViewController.swift in Sources */,
+				8FFFDB182006405B0046F051 /* FilmeCelula.swift in Sources */,
 				8FFFDB092005544D0046F051 /* app_MyMovies.xcdatamodeld in Sources */,
 				8FFFDB012005544D0046F051 /* AppDelegate.swift in Sources */,
 				8FFFDB1620062C470046F051 /* Filme.swift in Sources */,
